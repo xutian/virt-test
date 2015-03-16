@@ -32,6 +32,7 @@ patch
 make
 git
 nc
+iptables-services
 NetworkManager
 ntpdate
 redhat-lsb
